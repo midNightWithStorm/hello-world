@@ -1,2 +1,3 @@
 # hello-world
-just others repository
+
+hi humans!
